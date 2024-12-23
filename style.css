@@ -401,9 +401,9 @@ nav ul li a:hover {
       }
 
       .profile img {
-            width: 80%;
+            width: 75%;
             margin-left: 50px;
-            margin-top: 200px;
+            margin-top: 100px;
       }
 
       .profile p {
@@ -434,12 +434,12 @@ nav ul li a:hover {
 
       .ctn p {
             font-size: 17px;
-            margin-bottom: 300px;
+            margin-bottom: 200px;
       }
 
       .ctn img {
             margin-top: 300px;
-            width: 80%;
+            width: 75%;
             margin-left: -20px;
       }
 }
@@ -453,7 +453,7 @@ nav ul li a:hover {
 
       .profile img {
             margin-left: 55px;
-            width: 75%;
+            width: 70%;
       }
 
       .profile p {
@@ -471,7 +471,7 @@ nav ul li a:hover {
       }
 
       .ctn img {
-            width: 75%;
+            width: 70%;
             margin-left: -20px;
       }
 
